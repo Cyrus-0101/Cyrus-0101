@@ -122,7 +122,7 @@ Bachelor of Science, Computer Science.
 
 Outside of [GitHub](https://github.com/Toxic254/), You can **find me. Currently I'm **free to contribute*'
 
-[![Linkedin: Cyrus Gichuki](https://img.shields.io/badge/-Cyrus Gichuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-gichuki-0101/)](https://www.linkedin.com/in/cyrus-gichuki-0101/)
+[![Linkedin: Cyrus Gichuki](https://img.shields.io/badge/-CyrusGichuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-gichuki-0101/)](https://www.linkedin.com/in/cyrus-gichuki-0101/)
 
 [![GitHub Toxic254](https://img.shields.io/github/followers/Toxic254?label=follow&style=social)](https://github.com/Toxic254)
 
