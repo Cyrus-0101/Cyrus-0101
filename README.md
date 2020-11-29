@@ -39,9 +39,9 @@ Nairobi, KE.
 
 ## Experience:
 
-**Freelance Development.**  
+**0101 Solutions.**  
 Nairobi, KE.
-_Freelance Web Developer_, August 2018 - Currently.
+_Founder || Consultant✓_, August 2018 - Currently.
 
 - Plan, write, and debug web applications and software with complete accuracy. 
 - Design themes, simple websites, templates and bug fixes based on client specifications, continuously modifying the layouts to achieve client approval.
