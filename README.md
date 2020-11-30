@@ -103,7 +103,7 @@ Bachelor of Science, Computer Science.
 **_Microsoft Africa Development Center: Game of Learners - 2020 - (5 Weeks)_**
 - Participated in a 5 week hackathon. More details in the link below.
 
-- https://www.youracclaim.com/badges/93f56f3c-84ca-4e5a-89d6-bcfd3e4fd31a?source=linked_in_profile
+- https://www.youracclaim.com/badges/93f56f3c-84ca-4e5a-89d6-bcfd3e4fd31a?source=github_profile
 
 
 
