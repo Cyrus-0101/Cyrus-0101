@@ -9,13 +9,13 @@ Nairobi, KE.
 
 **Proficient:** JavaScript, Typescript, Linux, Angular, Express, Git, Python, Docker, Kubernetes, MongoDB and Firebase.
 
-**Knowledgeable:** Mocha, Chai, Angular, OAuth, Typescript, Perspective.
+**Knowledgeable:** Angular, Typescript, Perspective.
 
 **Learning**: C#, Data Science and Machine Learning. 
 
 ## Projects:
 
-**MediChap:** Online Store - [Live Site](https://medichap.azurewebsites.net)
+**MediChap:** E-Health System - [Cureently Site Not Live](https://medichap.azurewebsites.net)
 
 - Online hospital, where patients can sign in look for top rated or hospitals within the area, check favourite and/or available doctor, schedule time for online conferencing, assured end-to-end encryption, stored video recordings on Server, real-time chat and email and sms medicine prescription.
 - Led the UI implementation with a good UX to enhance the User's Experience.
