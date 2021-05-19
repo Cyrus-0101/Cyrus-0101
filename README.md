@@ -1,7 +1,5 @@
 ## Cyrus Gichuki 
 
-cyrus_g@outlook.com  
-+254 740 673 050
 Nairobi, KE.  
 [Github](github.com/Toxic254) | [LinkedIn](linkedin.com/in/cyrus-gichuki-0101/)
 
