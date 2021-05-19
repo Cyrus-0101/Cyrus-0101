@@ -17,7 +17,7 @@ Nairobi, KE.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic254&count_private=true&show_icons=true)
 
-Outside of [GitHub](https://github.com/Toxic254/), You can **find me. Currently I'm **free to contribute*'
+Currently I'm **free to contribute*'
 
 [![Linkedin: Cyrus Gichuki](https://img.shields.io/badge/-CyrusGichuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-gichuki-0101/)](https://www.linkedin.com/in/cyrus-gichuki-0101/)
 
