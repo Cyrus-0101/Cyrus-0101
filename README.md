@@ -1,7 +1,7 @@
 ## Cyrus Gichuki 
 
 Nairobi, KE.  
-[Github](github.com/Toxic254) | [LinkedIn](linkedin.com/in/cyrus-gichuki-0101/)
+[Github](github.com/Cyrus-0101) | [LinkedIn](linkedin.com/in/cyrus-gichuki-0101/)
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
@@ -21,6 +21,6 @@ Nairobi, KE.
 
 [![Linkedin: Cyrus Gichuki](https://img.shields.io/badge/-CyrusGichuki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cyrus-gichuki-0101/)](https://www.linkedin.com/in/cyrus-gichuki-0101/)
 
-[![GitHub Toxic254](https://img.shields.io/github/followers/Toxic254?label=follow&style=social)](https://github.com/Toxic254)
+[![GitHub Cyrus-0101](https://img.shields.io/github/followers/Cyrus-0101?label=follow&style=social)](https://github.com/Cyrus-0101)
 
 <p><a href="https://www.0101solutions.consulting">🌐 Consult with Us.</a></p>
