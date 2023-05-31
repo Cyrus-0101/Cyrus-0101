@@ -1,4 +1,4 @@
-## Cyrus Gichuki 
+## Cyrus Ndirangu 
 
 Nairobi, KE.  
 [Github](github.com/Cyrus-0101) | [LinkedIn](linkedin.com/in/cyrus-gichuki-0101/)
